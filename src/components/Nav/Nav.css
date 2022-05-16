@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    color:#1C3144;
+    text-shadow: 4px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  
+}
+.nav{
+    background:#A2D2FF;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 60px;
+}
